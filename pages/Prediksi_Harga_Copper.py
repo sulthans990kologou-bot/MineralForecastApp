@@ -303,13 +303,13 @@ if prediksi_btn:
     with col3:
         st.metric(
             "MAPE",
-            "ISI HASIL COPPER"
+            "1.7072%"
         )
 
     with col4:
         st.metric(
             "Akurasi",
-            "ISI HASIL COPPER"
+            "98.29%"
         )
 
     st.info(
